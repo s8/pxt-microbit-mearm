@@ -9,7 +9,8 @@
     "files": [
         "README.md",
         "mearm.ts",
-        "pxt.json"
+        "pxt.json",
+        "ns.ts"
     ],
     "testFiles": [
         "tests.ts"
