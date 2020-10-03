@@ -24,7 +24,7 @@
  * Control the MeArm from the micro:bit
  */
 //% weight=80 color=#00A3E0
-namespace mearm {
+// namespace mearm {
   
 //   let servos = [
 //     {minPulse: 600,  maxPulse: 2400, minAngle: 0,   maxAngle: 179,  currentAngle: 999, pin: AnalogPin.P13, joystick: AnalogPin.P0, direction: 1},
@@ -136,4 +136,4 @@ namespace mearm {
 
 //     return percentage;
 //   }
-}
+// }
